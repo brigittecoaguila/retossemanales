@@ -6,6 +6,7 @@
 
   .main {
     display: grid;
+    grid-template-columns: 2fr 2fr;
      
     height: 800px;
   }
@@ -17,6 +18,7 @@
 
 .nav {
     background-color: #FCE4EC ;
+    grid-column: 2/4;
   }
 
 body {
