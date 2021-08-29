@@ -6,9 +6,7 @@
 
   .main {
     display: grid;
-    grid-template-columns: 2fr 2fr;
-     
-    height: 800px;
+  
   }
   
 
@@ -29,8 +27,6 @@ body {
 .article {
     border: 1px solid black;
     background-color: #E1BEE7  ;
-    grid-column: 1/3;
-    grid-row: 1/4;
 
 
   }
@@ -42,8 +38,7 @@ body {
   .aside {
     background-color: #F8BBD0 ;
     border: 1px solid black;
-    grid-column: 3/4;
-    grid-row: 2 /4;
+
   }
 
 .aside_article {
