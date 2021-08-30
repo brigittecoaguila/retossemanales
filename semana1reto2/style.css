@@ -27,13 +27,11 @@
 
   header {
     background-color: #33CCCC  ;
-
     margin: 5px;
   }
 
   nav {
-    background-color: #FFFF00;
- 
+    background-color: #FFFF00; 
     margin: 5px;
     height: 680px;
   }
